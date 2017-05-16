@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MovieKhofi</string>
+    <string name="app_name">MovieKhof</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
 
@@ -7,7 +7,7 @@
     <string name="skip">SKIP</string>
     <string name="start">GOT IT</string>
 
-    <string name="slide_1_title">MovieKhofi</string>
+    <string name="slide_1_title">MovieKhof</string>
     <string name="slide_1_desc">An Application that allow you to watch your favorite</string>
 
     <string name="slide_2_title">Popular Movie</string>
